@@ -1,4 +1,4 @@
-package problem001;
+package p001;
 
 public class Numbers {
 
