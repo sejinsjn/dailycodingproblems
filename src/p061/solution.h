@@ -1,0 +1,1 @@
+unsigned long long fastexp(int b, int n);
