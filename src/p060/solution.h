@@ -1,0 +1,1 @@
+int checkArr(int a[], int n);
